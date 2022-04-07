@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This phone is really very good. Am OnePlus user.."
+    },
+    {
+      "text": "very very bad camera. blurry saturated images. ",
+      "rating": 3,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "rating": 6,
+      "text": "Really good affordable smartphone for Rs. 8999 its one of the most valuable buy."
+    }
+  ]
+}
